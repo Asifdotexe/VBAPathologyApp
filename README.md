@@ -16,3 +16,10 @@ We went to Pathology named Vivanta Diagnotics in Malad, Mumbai to gather informa
 - We have attached a design document explaining the structure and use of each control and worksheet.
 
 This was a collaborative projecte made and maintained by Asif Sayyed, Pranjal Dhamane and Soham Vikhare.
+
+LinkedIn Links
+>Asif Sayyed: https://www.linkedin.com/in/asifdotexe/
+
+>Pranjal Dhamane: https://www.linkedin.com/in/pranjal-dhamane-35466b259/
+
+>Soham Vikhare: https://www.linkedin.com/in/soham-vikhare-809a2a250/
