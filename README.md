@@ -1,5 +1,13 @@
 # Pathology Lab Application using VBA
 
+Contributors
+
+>Pranjal Dhamane: https://www.linkedin.com/in/pranjal-dhamane-35466b259/
+
+>Soham Vikhare: https://www.linkedin.com/in/soham-vikhare-809a2a250/
+
+>Asif Sayyed: https://www.linkedin.com/in/asifdotexe/
+
 This project is a VBA application for managing pathology lab processes, including patient data management and bill generation. The application is designed to be user-friendly and easy to use for lab personnel, including pathologists and lab technicians.
 
 ## Features
@@ -15,11 +23,4 @@ We went to Pathology named Vivanta Diagnotics in Malad, Mumbai to gather informa
 - We have attached the Excel Workbook.
 - We have attached a design document explaining the structure and use of each control and worksheet.
 
-This was a collaborative projecte made and maintained by Asif Sayyed, Pranjal Dhamane and Soham Vikhare.
-
-LinkedIn Links
->Asif Sayyed: https://www.linkedin.com/in/asifdotexe/
-
->Pranjal Dhamane: https://www.linkedin.com/in/pranjal-dhamane-35466b259/
-
->Soham Vikhare: https://www.linkedin.com/in/soham-vikhare-809a2a250/
+This was a collaborative projects made and maintained by Asif Sayyed, Pranjal Dhamane and Soham Vikhare.
